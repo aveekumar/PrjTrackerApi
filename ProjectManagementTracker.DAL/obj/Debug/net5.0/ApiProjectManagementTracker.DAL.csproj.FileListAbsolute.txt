@@ -1,0 +1,15 @@
+C:\projectmanagementtrackerapi\ProjectManagementTracker.DAL\bin\Debug\net5.0\ApiProjectManagementTracker.DAL.deps.json
+C:\projectmanagementtrackerapi\ProjectManagementTracker.DAL\bin\Debug\net5.0\ApiProjectManagementTracker.DAL.dll
+C:\projectmanagementtrackerapi\ProjectManagementTracker.DAL\bin\Debug\net5.0\ref\ApiProjectManagementTracker.DAL.dll
+C:\projectmanagementtrackerapi\ProjectManagementTracker.DAL\bin\Debug\net5.0\ApiProjectManagementTracker.DAL.pdb
+C:\projectmanagementtrackerapi\ProjectManagementTracker.DAL\bin\Debug\net5.0\ApiProjectMgmt.Models.dll
+C:\projectmanagementtrackerapi\ProjectManagementTracker.DAL\bin\Debug\net5.0\ApiProjectMgmt.Models.pdb
+C:\projectmanagementtrackerapi\ProjectManagementTracker.DAL\obj\Debug\net5.0\ApiProjectManagementTracker.DAL.csproj.AssemblyReference.cache
+C:\projectmanagementtrackerapi\ProjectManagementTracker.DAL\obj\Debug\net5.0\ApiProjectManagementTracker.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\projectmanagementtrackerapi\ProjectManagementTracker.DAL\obj\Debug\net5.0\ApiProjectManagementTracker.DAL.AssemblyInfoInputs.cache
+C:\projectmanagementtrackerapi\ProjectManagementTracker.DAL\obj\Debug\net5.0\ApiProjectManagementTracker.DAL.AssemblyInfo.cs
+C:\projectmanagementtrackerapi\ProjectManagementTracker.DAL\obj\Debug\net5.0\ApiProjectManagementTracker.DAL.csproj.CoreCompileInputs.cache
+C:\projectmanagementtrackerapi\ProjectManagementTracker.DAL\obj\Debug\net5.0\ApiProjectManagementTracker.DAL.csproj.CopyComplete
+C:\projectmanagementtrackerapi\ProjectManagementTracker.DAL\obj\Debug\net5.0\ApiProjectManagementTracker.DAL.dll
+C:\projectmanagementtrackerapi\ProjectManagementTracker.DAL\obj\Debug\net5.0\ref\ApiProjectManagementTracker.DAL.dll
+C:\projectmanagementtrackerapi\ProjectManagementTracker.DAL\obj\Debug\net5.0\ApiProjectManagementTracker.DAL.pdb

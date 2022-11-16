@@ -1,0 +1,12 @@
+C:\projectmanagementtrackerapi-main\ProjectManagement.Models\bin\Debug\net5.0\ProjectManagement.Models.deps.json
+C:\projectmanagementtrackerapi-main\ProjectManagement.Models\bin\Debug\net5.0\ProjectManagement.Models.dll
+C:\projectmanagementtrackerapi-main\ProjectManagement.Models\bin\Debug\net5.0\ref\ProjectManagement.Models.dll
+C:\projectmanagementtrackerapi-main\ProjectManagement.Models\bin\Debug\net5.0\ProjectManagement.Models.pdb
+C:\projectmanagementtrackerapi-main\ProjectManagement.Models\obj\Debug\net5.0\ProjectManagement.Models.csproj.AssemblyReference.cache
+C:\projectmanagementtrackerapi-main\ProjectManagement.Models\obj\Debug\net5.0\ProjectManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\projectmanagementtrackerapi-main\ProjectManagement.Models\obj\Debug\net5.0\ProjectManagement.Models.AssemblyInfoInputs.cache
+C:\projectmanagementtrackerapi-main\ProjectManagement.Models\obj\Debug\net5.0\ProjectManagement.Models.AssemblyInfo.cs
+C:\projectmanagementtrackerapi-main\ProjectManagement.Models\obj\Debug\net5.0\ProjectManagement.Models.csproj.CoreCompileInputs.cache
+C:\projectmanagementtrackerapi-main\ProjectManagement.Models\obj\Debug\net5.0\ProjectManagement.Models.dll
+C:\projectmanagementtrackerapi-main\ProjectManagement.Models\obj\Debug\net5.0\ref\ProjectManagement.Models.dll
+C:\projectmanagementtrackerapi-main\ProjectManagement.Models\obj\Debug\net5.0\ProjectManagement.Models.pdb
